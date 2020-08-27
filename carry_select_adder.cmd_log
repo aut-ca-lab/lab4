@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Education/CA/Lab/LAB_4/Code/carry_select_adder.xst" -ofn "E:/Education/CA/Lab/LAB_4/Code/carry_select_adder.syr" 

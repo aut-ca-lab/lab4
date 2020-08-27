@@ -1,0 +1,28 @@
+Command line:
+   carry_select_adder_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50953
+
+Thu Aug 27 17:33:06 2020
+
+
+ Elaboration Time: 0.90625 sec
+
+ Current Memory Usage: 5172.14 Meg
+
+ Total Signals          : 360
+ Total Nets             : 71
+ Total Signal Drivers   : 63
+ Total Blocks           : 92
+ Total Primitive Blocks : 61
+ Total Processes        : 61
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 431
+
+ Total Simulation Time: 0.90625 sec
+
+ Current Memory Usage: 5486.71 Meg
+
+Thu Aug 27 17:33:38 2020
+

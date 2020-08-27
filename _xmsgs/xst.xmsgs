@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Education\CA\Lab\LAB_4\Code\carry_lookahead_adder.vhd</arg>&quot; line <arg fmt="%s" index="2">70</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">full_adder_instance0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Education\CA\Lab\LAB_4\Code\carry_lookahead_adder.vhd</arg>&quot; line <arg fmt="%s" index="2">71</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">full_adder_instance1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Education\CA\Lab\LAB_4\Code\carry_lookahead_adder.vhd</arg>&quot; line <arg fmt="%s" index="2">72</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">full_adder_instance2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Education\CA\Lab\LAB_4\Code\carry_lookahead_adder.vhd</arg>&quot; line <arg fmt="%s" index="2">73</arg>: Output port &lt;<arg fmt="%s" index="3">cout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">full_adder_instance3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">and_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">half_adder_instance0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">and_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">half_adder_instance1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">or_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">full_adder_instance0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">and_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">half_adder_instance0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">and_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">half_adder_instance1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">or_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">full_adder_instance1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">and_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">half_adder_instance0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">and_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">half_adder_instance1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">or_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">full_adder_instance2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">and_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">half_adder_instance0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">and_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">half_adder_instance1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">or_gate_instance0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">full_adder_instance3</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+</messages>
+

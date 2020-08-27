@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Education/CA/Lab/LAB_4/Code/ripple_adder_testbench_isim_beh.exe" -prj "E:/Education/CA/Lab/LAB_4/Code/ripple_adder_testbench_beh.prj" "work.ripple_adder_testbench" 
